@@ -1,3 +1,3 @@
 # Vulkan-Dots
 
-<img src="./Vulkan-Dots/Vulkan.png" height="3840px" align="right">
+<img src="./Vulkan.png" height="768px" align="right">
